@@ -26,7 +26,7 @@
 - PowerBi, SQL, Python,
 
 ### 💡 Fun Fact
-I like to think on paper, I love scoence and archaelogical discoveries and I love good food
+I like to think on paper, I love science and archaelogical discoveries and I love good food
 
 ### 📫 How to Reach Me
 - Portfolio: https://github.com/Nedupelekwa/Nedupelekwa
