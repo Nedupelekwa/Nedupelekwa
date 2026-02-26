@@ -1,6 +1,6 @@
 # Hi, I'm CHINEDU ELEKWA 📊
 
-**Data Analyst, Business Analyst** | I am skilled in designing Excel/Google Sheet templates for professional business analyis. I also apply statistical and analytical proficiency into unearthen performance and key decision making trends.
+**Data Analyst, Business Analyst** | I am skilled in designing Excel/Google Sheet templates for professional business analyis. I also apply statistical and analytical proficiency into unearthening performance and key decision making trends.
 
 ---
 
