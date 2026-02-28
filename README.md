@@ -29,7 +29,7 @@
 I like to think on paper, I love science and archaelogical discoveries and I love good food
 
 ### 📫 How to Reach Me
-- Portfolio: https://nedupelekwa.github.io/https-nedupelekwa.github.io/
+- Portfolio: https://nedupelekwa.github.io
 - LinkedIn: https://www.linkedin.com/in/chinedu-elekwa/
 - Email: chinedupelekwa@gmail.com 
 
