@@ -17,7 +17,7 @@
 | **Other** | Git, Google Colab |
 
 ### 📂 Featured Projects
-- **[Project Name](link-to-repo)** — [One sentence: what you analyzed and what you found]
+- **POWERBI-BUSINESS-DASHBOARD (https://github.com/Nedupelekwa/POWERBI-BUSINESS-DASHBOARD)** — PowerBi Business Dashboard for B & D Company comparing sales and profit performances across different product segments and region, from 2020 to 2023
 
 ### 🌱 Currently Learning
 - Completing EdMotion Pod Task 01 — building a data analyst portfolio from scratch
